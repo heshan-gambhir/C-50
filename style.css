@@ -1,0 +1,11 @@
+H1{
+    COLOR:CADETBLUE
+}
+*{
+    BORDER:SOLID
+}
+ .HEADER1{
+    BACKGROUND-COLOR:PURPLE;
+        display: flex; 
+        JUSTIFY-CONTENT: SPACE-BETWEEN;
+ }
